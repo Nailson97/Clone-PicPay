@@ -1,3 +1,3 @@
 # Clone-PicPay
 Clone do Site PicPay 
-Site ficticio para fins de estudo
+SITE FICTICIO PARA FINS DE ESTUDO
